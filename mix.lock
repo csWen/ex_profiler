@@ -1,0 +1,4 @@
+%{
+  "mimic": {:hex, :mimic, "1.1.2", "829a13ddefaa34185cffc3777d26c98fe1b19878350fea13536cda0430d92f15", [:mix], [], "hexpm"},
+  "recon": {:hex, :recon, "2.5.0", "2f7fcbec2c35034bade2f9717f77059dc54eb4e929a3049ca7ba6775c0bd66cd", [:mix, :rebar3], [], "hexpm"},
+}
